@@ -1,0 +1,101 @@
+Date,time,Victim_Name,Address,Zipcode,Age,Gender,Race,Race_factor,Age_factor1,Age_factor2,Weekday_factor1,Weekday_factor2,Weekday_factor3,Time_factor1,Time_factor2
+7/14/2016,1:26 PM, ,3100 Ferndale Ave,21207,0,male,Unknown,E,A,A,C,B,B,B,B
+7/13/2016,11:39 PM, ,3700 St Margarets St,21225,57,male,Unknown,E,C,B,B,B,B,B,A
+7/13/2016,12:48 AM,Melvin Brown,1500 Washington St,21213,48,male,Unknown,E,C,B,B,B,B,A,A
+7/12/2016,9:25 PM,Johnny Timmons,2800 Ashland Ave,21205,39,male,Black,A,C,B,A,A,A,B,A
+7/12/2016,12:00 AM,Andre Grice,3800 Boarman Ave,21215,29,male,Black,A,C,B,A,A,A,A,A
+7/11/2016,4:30 PM,Robert McIntosh,500 Dolphin St,21217,31,male,Unknown,E,C,B,G,A,B,B,B
+7/10/2016,6:30 AM,William Johnson,600 E Patapsco Ave,21225,49,male,Black,A,C,B,F,B,B,A,A
+7/10/2016,6:05 AM,Tevin Haygood,900 N Calhoun St,21217,19,male,Black,A,B,B,F,B,B,A,A
+7/10/2016,1:15 AM,Jermaine Scofield,1800 W North Ave,21217,24,male,Black,A,B,B,F,B,B,A,A
+7/10/2016,12:00 AM,William Primus,1200 E Fayette St,21202,64,male,Black,A,C,B,F,B,B,A,A
+7/8/2016,11:00 PM,Molly Macauley,600 W University Parkway,21210,59,female,White,D,C,B,D,B,B,B,A
+7/6/2016,10:03 PM,Thomas Chambers,100 N Payson St,21223,29,male,Black,A,C,B,B,B,B,B,A
+7/6/2016,7:45 PM,Trayvon Lee,2300 Anoka Ave,21215,24,male,Black,A,B,B,B,B,B,B,A
+7/5/2016,12:55 AM,Travis Powell,600 Laurens St,21217,28,male,Unknown,E,C,B,A,A,A,A,A
+7/5/2016,12:39 AM,Lawrence Roebuck,300 Herring Ct,21231,24,male,Black,A,B,B,A,A,A,A,A
+7/3/2016,4:05 PM,Dontay Hughes,2200 Poplar Grove St,21216,39,male,Black,A,C,B,F,B,B,B,B
+7/1/2016,3:16 PM,Davon Robinson,800 Kevin Rd,21229,31,male,Black,A,C,B,D,B,B,B,B
+6/30/2016,9:30 PM,Willard Bryant Jr,4500 N Rogers Ave,21215,36,male,Unknown,E,C,B,C,B,B,B,A
+6/28/2016,9:29 PM,David Golden III,600 N Ellwood Ave,21205,18,male,Black,A,B,B,A,A,A,B,A
+6/28/2016,12:50 AM,Brandon Holloway,1800 Edmondson Ave,21228,43,male,Black,A,C,B,A,A,A,A,A
+6/28/2016,12:00 AM,Darrow Coady,5600 Sinclair Lane,21206,1,male,Black,A,A,A,A,A,A,A,A
+6/26/2016,8:55 PM,Davon Booth,3400 Elmora Ave,21213,34,male,Black,A,C,B,F,B,B,B,A
+6/26/2016,12:00 AM,Marquise Addison,3400 Ravenwood Ave,21213,25,male,Black,A,C,B,F,B,B,A,A
+6/25/2016,7:00 PM,Tyriece Watson,4600 Harford Rd,21214,23,male,Black,A,B,B,E,B,B,B,A
+6/24/2016,12:45 AM,Leo Cooper,3300 Caton Ave,21229,31,male,Unknown,E,C,B,D,B,B,A,A
+6/23/2016,4:35 AM,Maurice Ely,6200 Fairdel Ave,21206,18,male,Unknown,E,B,B,C,B,B,A,A
+6/22/2016,10:35 PM,Damon Mullen,4000 Wilsby Ave,21218,33,male,Unknown,E,C,B,B,B,B,B,A
+6/22/2016,12:30 PM,Donzell Canada,1700 Presstman St,21217,29,male,Black,A,C,B,B,B,B,B,B
+6/21/2016,6:30 PM,Christopher Collins,1300 Glenwood Ave,21212,25,male,Black,A,C,B,A,A,A,B,B
+6/14/2016,3:20 AM,Travonn Barnett,1500 Gorsuch Ave,21218,23,male,Black,A,B,B,A,A,A,A,A
+6/13/2016,4:39 PM,Steven Nelson,3500 Brehms Lane,21213,24,male,Unknown,E,B,B,G,A,B,B,B
+6/11/2016,3:41 PM,Xavier Starke,1 Shipley St,21223,38,male,Unknown,E,C,B,E,B,B,B,B
+6/11/2016,1:33 AM,Diandre Barnes,900 Pennsylvania Ave,21201,13,male,Black,A,A,A,E,B,B,A,A
+6/10/2016,11:40 PM,Garrison Derricks,400 E 22nd St,21218,23,male,Unknown,E,B,B,D,B,B,B,A
+6/10/2016,7:39 PM,Reginald Peay,2500 Keyworth Ave,21215,40,male,Unknown,E,C,B,D,B,B,B,A
+6/9/2016,11:30 PM,Jerome McDougald,100 N Smallwood St,21223,24,male,Unknown,E,B,B,C,B,B,B,A
+6/9/2016,4:36 PM,Ronald Jones,1900 Edmondson Ave,21223,26,male,Unknown,E,C,B,C,B,B,B,B
+6/8/2016,9:39 PM,Darrian Johnson,4300 Fernhill Ave,21215,19,male,Black,A,B,B,B,B,B,B,A
+6/8/2016,6:56 PM,Tiffany Lowery,1300 James St,21223,30,female,Black,A,C,B,B,B,B,B,B
+6/6/2016,3:45 AM,Jordan Hill,1500 Spruce St,21226,23,male,Unknown,E,B,B,G,A,B,A,A
+6/6/2016,3:45 AM,Rashaud Strong,1500 Spruce St,21226,22,male,Black,A,B,B,G,A,B,A,A
+6/4/2016,1:15 AM,Aaron Vaughn,200 N Fremont Ave,21201,27,male,Unknown,E,C,B,E,B,B,A,A
+6/3/2016,9:10 PM,Kareem Samuel,700 N Monroe St,21217,27,male,Unknown,E,C,B,D,B,B,B,A
+6/3/2016,12:25 AM,Larese Bowser,900 Allendale St,21229,42,female,Black,A,C,B,D,B,B,A,A
+5/31/2016,9:30 PM,Shawn Gregg,2200 Barclay St,21218,24,male,Black,A,B,B,A,A,A,B,A
+5/28/2016,11:55 PM,Domonique Dungee,500 S Broadway,21231,26,male,Black,A,C,B,E,B,B,B,A
+5/27/2016,7:30 AM,Latrina Ashburne,2900 Rosalind Ave,21215,41,female,Black,A,C,B,D,B,B,A,A
+5/27/2016,12:00 AM,Raymond Faircloth,1600 W North Ave,21217,46,male,White,D,C,B,D,B,B,A,A
+5/26/2016,6:50 PM,Dante Williams,1600 E Oliver St,21213,44,male,Black,A,C,B,C,B,B,B,B
+5/26/2016,6:00 PM,Brian Banks,2700 The Alameda,21218,20,male,Unknown,E,B,B,C,B,B,B,B
+5/26/2016,6:00 PM,Maurice Mayo,2700 The Alameda,21218,24,male,Black,A,B,B,C,B,B,B,B
+5/26/2016,12:00 AM,James Neal,4200 Willshire Ave,21206,56,male,Black,A,C,B,C,B,B,A,A
+5/25/2016,9:15 PM,Stanley Short,2400 Frederick Ave,21223,29,male,Black,A,C,B,B,B,B,B,A
+5/25/2016,8:00 PM,Christopher Jackson,400 Forrest St,21202,24,male,Black,A,B,B,B,B,B,B,A
+5/25/2016,5:48 PM,,1200 N Carey St,21217,22,male,Black,A,B,B,B,B,B,B,B
+5/25/2016,12:00 AM,Mary Helen Dickson-Hines,4500 Garden Dr,21215,90,female,Black,A,C,B,B,B,B,A,A
+5/25/2016,12:00 AM,Elisha Watson,500 E Patapsco Ave,21225,1,female,White,D,A,A,B,B,B,A,A
+5/25/2016,12:00 AM,Eugene Gordon Jr.,1 N Gilmor St,21223,53,male,Black,A,C,B,B,B,B,A,A
+5/23/2016,1:15 PM,Kevon Gant,5400 Nelson Ave,21215,29,male,Black,A,C,B,G,A,B,B,B
+5/22/2016,11:40 PM,Catherine Cooper,200 N Stricker St,21223,49,female,White,D,C,B,F,B,B,B,A
+5/22/2016,10:56 PM,Cortez Brown,3500 Hayward Ave,21215,17,male,Unknown,E,A,A,F,B,B,B,A
+5/20/2016,5:50 AM,Emmanuel Clark,400 W Saratoga St,21201,18,male,Black,A,B,B,D,B,B,A,A
+5/17/2016,9:52 PM,Kevin Evans,4200 Sheldon Ave,21206,26,male,Black,A,C,B,A,A,A,B,A
+5/12/2016,10:45 PM,Lionel Hill,1700 Manor Ave,21206,33,male,Black,A,C,B,C,B,B,B,A
+5/10/2016,5:40 PM,Alfred Barrett,1500 N Smallwood St,21216,30,male,Black,A,C,B,A,A,A,B,B
+5/8/2016,2:20 AM,Antonio Buckson,600 N Decker Ave,21205,38,male,Black,A,C,B,F,B,B,A,A
+5/7/2016,12:20 AM,Makel Shaheed,3400 Round Rd,21225,27,male,Unknown,E,C,B,E,B,B,A,A
+5/6/2016,5:40 AM,Samuel Stewart,5700 Jonquil Ave,21215,45,male,Black,A,C,B,D,B,B,A,A
+5/4/2016,12:00 AM,Raymond Chambers,1500 N Durham St,21213,77,male,Unknown,E,C,B,B,B,B,A,A
+5/3/2016,6:00 PM,Quincey Waymon,6600 Reisterstown Rd,21215,21,male,Black,A,B,B,A,A,A,B,B
+5/2/2016,3:45 PM,Joseph Payne,900 E Patapsco Ave,21225,16,male,Black,A,A,A,G,A,B,B,B
+4/28/2016,9:55 PM,Anthony Hornes,4700 Haddon Ave,21207,34,male,Unknown,E,C,B,C,B,B,B,A
+4/28/2016,8:07 PM,Joel McCullum,2400 E Lafayette St,21213,26,male,Black,A,C,B,C,B,B,B,A
+4/28/2016,7:38 PM,Maurice Braham,4700 Gwynn Oak Ave,21207,31,male,Black,A,C,B,C,B,B,B,A
+4/26/2016,11:45 PM,Carlos Younger,4700 Liberty Heights Ave,21207,24,male,Black,A,B,B,A,A,A,B,A
+4/26/2016,9:50 PM,Damon Gingles,500 N Loudon Ave,21229,38,male,Unknown,E,C,B,A,A,A,B,A
+4/26/2016,9:35 PM,Asia Brockington,3200 E Baltimore St,21224,26,female,Black,A,C,B,A,A,A,B,A
+4/26/2016,7:07 PM, ,2700 Ashland Ave,21205,25,male,Unknown,E,C,B,A,A,A,B,A
+4/25/2016,11:30 PM, ,5400 Purdue Ave,21239,0,male,Unknown,E,A,A,G,A,B,B,A
+4/25/2016,10:50 PM, ,800 Ashburton St,21216,52,male,Unknown,E,C,B,G,A,B,B,A
+4/25/2016,12:55 AM,Michael Omoregie,2500 Jefferson St,21205,44,male,Black,A,C,B,G,A,B,A,A
+4/24/2016,10:35 PM,Deallen Jones,1400 Myrtle Ave,21217,36,male,Black,A,C,B,F,B,B,B,A
+4/24/2016,7:15 PM,Demetrius Little,1400 E Fayette St,21231,0,male,Black,A,A,A,F,B,B,B,A
+4/22/2016,7:54 PM,Nathan Walker,3400 Reisterstown Rd,21215,25,male,Black,A,C,B,D,B,B,B,A
+4/19/2016,7:30 AM,Markee Brown,4000 Wilsby Ave,21218,19,male,Black,A,B,B,A,A,A,A,A
+4/19/2016,12:00 AM,Theodore Bush,3600 Esther Pl,21224,41,male,White,D,C,B,A,A,A,A,A
+4/18/2016,1:45 PM,Delmeko Green,1200 Bonaparte Ave,21218,20,male,Black,A,B,B,G,A,B,B,B
+4/17/2016,2:15 AM,Antonio Washington,600 N Duncan St,21205,35,male,Black,A,C,B,F,B,B,A,A
+4/16/2016,11:45 AM,Curtis Fleming,Bayard St and Washington Blvd,21230,22,male,Black,A,B,B,E,B,B,A,B
+4/12/2016,11:30 PM,Taji Anthony,3400 Round Rd,21225,25,male,Black,A,C,B,A,A,A,B,A
+4/12/2016,2:45 AM,Desean McKoy,3100 Dudley Ave,21213,24,male,Black,A,B,B,A,A,A,A,A
+4/11/2016,9:00 PM,Melvin Saunders,3800 Harlem Ave,21229,36,male,Black,A,C,B,G,A,B,B,A
+4/11/2016,7:00 PM,Larelle Wallace,1500 Pennsylvania Ave,21217,28,male,Black,A,C,B,G,A,B,B,A
+4/8/2016,3:00 PM,Jamel Bishop,5400 Nelson Ave,21215,33,male,Black,A,C,B,D,B,B,B,B
+4/8/2016,2:45 PM,Ronald Davis,1400 N. Aisquith St,21202,50,male,Black,A,C,B,D,B,B,B,B
+4/8/2016,1:06 PM,Jerry Cook,3000 Chelsea Terrace,21216,24,male,Black,A,B,B,D,B,B,B,B
+4/7/2016,5:25 PM,Antowan Baker,2100 W Pratt St,21223,33,male,Black,A,C,B,C,B,B,B,B
+4/6/2016,12:00 AM,Rondell Street,1049 Hillen St,21202,27,male,Black,A,C,B,B,B,B,A,A
+4/3/2016,12:30 AM,Deantre Robertson,2800 Boarman Ave,21215,29,male,Black,A,C,B,F,B,B,A,A
+3/31/2016,4:59 AM,Delvin Foster,1500 Lakeside Ave,21218,37,male,Black,A,C,B,C,B,B,A,A

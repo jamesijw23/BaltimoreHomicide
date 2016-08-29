@@ -1,0 +1,101 @@
+Date & timeVictim nameAddressAgeGenderRace
+2016-07-14 1:26 PM3100 Ferndale Ave0maleUnknown
+2016-07-13 11:39 PM3700 St Margarets St57maleUnknown
+2016-07-13 12:48 AMMelvin Brown1500 Washington St48maleUnknown
+2016-07-12 9:25 PMJohnny Timmons2800 Ashland Ave39maleBlack
+2016-07-12 12:00 AMAndre Grice3800 Boarman Ave29maleBlack
+2016-07-11 4:30 PMRobert McIntosh500 Dolphin St31maleUnknown
+2016-07-10 6:30 AMWilliam Johnson600 E Patapsco Ave49maleBlack
+2016-07-10 6:05 AMTevin Haygood900 N Calhoun St19maleBlack
+2016-07-10 1:15 AMJermaine Scofield1800 W North Ave24maleBlack
+2016-07-10 12:00 AMWilliam Primus1200 E Fayette St64maleBlack
+2016-07-08 11:00 PMMolly Macauley600 W University Parkway59femaleWhite
+2016-07-06 10:03 PMThomas Chambers100 N Payson St29maleBlack
+2016-07-06 7:45 PMTrayvon Lee2300 Anoka Ave24maleBlack
+2016-07-05 12:55 AMTravis Powell600 Laurens St28maleUnknown
+2016-07-05 12:39 AMLawrence Roebuck300 Herring Ct24maleBlack
+2016-07-03 4:05 PMDontay Hughes2200 Poplar Grove St39maleBlack
+2016-07-01 3:16 PMDavon Robinson800 Kevin Rd31maleBlack
+2016-06-30 9:30 PMWillard Bryant Jr4500 N Rogers Ave36maleUnknown
+2016-06-28 9:29 PMDavid Golden III600 N Ellwood Ave18maleBlack
+2016-06-28 12:50 AMBrandon Holloway1800 Edmondson Ave43maleBlack
+2016-06-28 12:00 AMDarrow Coady5600 Sinclair Lane1maleBlack
+2016-06-26 8:55 PMDavon Booth3400 Elmora Ave34maleBlack
+2016-06-26 12:00 AMMarquise Addison3400 Ravenwood Ave25maleBlack
+2016-06-25 7:00 PMTyriece Watson4600 Harford Rd23maleBlack
+2016-06-24 12:45 AMLeo Cooper3300 Caton Ave31maleUnknown
+2016-06-23 4:35 AMMaurice Ely6200 Fairdel Ave18maleUnknown
+2016-06-22 10:35 PMDamon Mullen4000 Wilsby Ave33maleUnknown
+2016-06-22 12:30 PMDonzell Canada1700 Presstman St29maleBlack
+2016-06-21 6:30 PMChristopher Collins1300 Glenwood Ave25maleBlack
+2016-06-14 3:20 AMTravonn Barnett1500 Gorsuch Ave23maleBlack
+2016-06-13 4:39 PMSteven Nelson3500 Brehms Lane24maleUnknown
+2016-06-11 3:41 PMXavier Starke1 Shipley St38maleUnknown
+2016-06-11 1:33 AMDiandre Barnes900 Pennsylvania Ave13maleBlack
+2016-06-10 11:40 PMGarrison Derricks400 E 22nd St23maleUnknown
+2016-06-10 7:39 PMReginald Peay2500 Keyworth Ave40maleUnknown
+2016-06-09 11:30 PMJerome McDougald100 N Smallwood St24maleUnknown
+2016-06-09 4:36 PMRonald Jones1900 Edmondson Ave26maleUnknown
+2016-06-08 9:39 PMDarrian Johnson4300 Fernhill Ave19maleBlack
+2016-06-08 6:56 PMTiffany Lowery1300 James St30femaleBlack
+2016-06-06 3:45 AMJordan Hill1500 Spruce St23maleUnknown
+2016-06-06 3:45 AMRashaud Strong1500 Spruce St22maleBlack
+2016-06-04 1:15 AMAaron Vaughn200 N Fremont Ave27maleUnknown
+2016-06-03 9:10 PMKareem Samuel700 N Monroe St27maleUnknown
+2016-06-03 12:25 AMLarese Bowser900 Allendale St42femaleBlack
+2016-05-31 9:30 PMShawn Gregg2200 Barclay St24maleBlack
+2016-05-28 11:55 PMDomonique Dungee500 S Broadway26maleBlack
+2016-05-27 7:30 AMLatrina Ashburne2900 Rosalind Ave41femaleBlack
+2016-05-27 12:00 AMRaymond Faircloth1600 W North Ave46maleWhite
+2016-05-26 6:50 PMDante Williams1600 E Oliver St44maleBlack
+2016-05-26 6:00 PMBrian Banks2700 The Alameda20maleUnknown
+2016-05-26 6:00 PMMaurice Mayo2700 The Alameda24maleBlack
+2016-05-26 12:00 AMJames Neal4200 Willshire Ave56maleBlack
+2016-05-25 9:15 PMStanley Short2400 Frederick Ave29maleBlack
+2016-05-25 8:00 PMChristopher Jackson400 Forrest St24maleBlack
+2016-05-25 5:48 PM1200 N Carey St22maleBlack
+2016-05-25 12:00 AMMary Helen Dickson-Hines4500 Garden Dr90femaleBlack
+2016-05-25 12:00 AMElisha Watson500 E Patapsco Ave1femaleWhite
+2016-05-25 12:00 AMEugene Gordon Jr.1 N Gilmor St53maleBlack
+2016-05-23 1:15 PMKevon Gant5400 Nelson Ave29maleBlack
+2016-05-22 11:40 PMCatherine Cooper200 N Stricker St49femaleWhite
+2016-05-22 10:56 PMCortez Brown3500 Hayward Ave17maleUnknown
+2016-05-20 5:50 AMEmmanuel Clark400 W Saratoga St18maleBlack
+2016-05-17 9:52 PMKevin Evans4200 Sheldon Ave26maleBlack
+2016-05-12 10:45 PMLionel Hill1700 Manor Ave33maleBlack
+2016-05-10 5:40 PMAlfred Barrett1500 N Smallwood St30maleBlack
+2016-05-08 2:20 AMAntonio Buckson600 N Decker Ave38maleBlack
+2016-05-07 12:20 AMMakel Shaheed3400 Round Rd27maleUnknown
+2016-05-06 5:40 AMSamuel Stewart5700 Jonquil Ave45maleBlack
+2016-05-04 12:00 AMRaymond Chambers1500 N Durham St77male Unknown
+2016-05-03 6:00 PMQuincey Waymon6600 Reisterstown Rd21maleBlack
+2016-05-02 3:45 PMJoseph Payne900 E Patapsco Ave16maleBlack
+2016-04-28 9:55 PMAnthony Hornes4700 Haddon Ave34maleUnknown
+2016-04-28 8:07 PMJoel McCullum2400 E Lafayette St26maleBlack
+2016-04-28 7:38 PMMaurice Braham4700 Gwynn Oak Ave31maleBlack
+2016-04-26 11:45 PMCarlos Younger4700 Liberty Heights Ave24maleBlack
+2016-04-26 9:50 PMDamon Gingles500 N Loudon Ave38maleUnknown
+2016-04-26 9:35 PMAsia Brockington3200 E Baltimore St26femaleBlack
+2016-04-26 7:07 PM2700 Ashland Ave25maleUnknown
+2016-04-25 11:30 PM5400 Purdue Ave0maleUnknown
+2016-04-25 10:50 PM800 Ashburton St52maleUnknown
+2016-04-25 12:55 AMMichael Omoregie2500 Jefferson St44maleBlack
+2016-04-24 10:35 PMDeallen Jones1400 Myrtle Ave36maleBlack
+2016-04-24 7:15 PMDemetrius Little1400 E Fayette St0maleBlack
+2016-04-22 7:54 PMNathan Walker3400 Reisterstown Rd25maleBlack
+2016-04-19 7:30 AMMarkee Brown4000 Wilsby Ave19maleBlack
+2016-04-19 12:00 AMTheodore Bush3600 Esther Pl41maleWhite
+2016-04-18 1:45 PMDelmeko Green1200 Bonaparte Ave20maleBlack
+2016-04-17 2:15 AMAntonio Washington600 N Duncan St35maleBlack
+2016-04-16 11:45 AMCurtis FlemingBayard St and Washington Blvd22maleBlack
+2016-04-12 11:30 PMTaji Anthony3400 Round Rd25maleBlack
+2016-04-12 2:45 AMDesean McKoy3100 Dudley Ave24maleBlack
+2016-04-11 9:00 PMMelvin Saunders3800 Harlem Ave36maleBlack
+2016-04-11 7:00 PMLarelle Wallace1500 Pennsylvania Ave28maleBlack
+2016-04-08 3:00 PMJamel Bishop5400 Nelson Ave33maleBlack
+2016-04-08 2:45 PMRonald Davis1400 N. Aisquith St50maleBlack
+2016-04-08 1:06 PMJerry Cook3000 Chelsea Terrace24maleBlack
+2016-04-07 5:25 PMAntowan Baker2100 W Pratt St33maleBlack
+2016-04-06 12:00 AMRondell Street1049 Hillen St27maleBlack
+2016-04-03 12:30 AMDeantre Robertson2800 Boarman Ave29maleBlack
+2016-03-31 4:59 AMDelvin Foster1500 Lakeside Ave37maleBlack
